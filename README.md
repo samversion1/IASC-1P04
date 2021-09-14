@@ -4,4 +4,4 @@
 
 ## Playtest
 
-Playtest my game here [here](https://puginarug.com/)
+Watch a pug on this cool website [here](https://puginarug.com/)
