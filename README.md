@@ -1,2 +1,7 @@
-# IASC-1P04
-Github repository for IASC 1P04 course at Brock Uni Game Design
+# IASC-1P04 |
+
+# Welcome to the example files website for my IASC 1P04 class
+
+## Playtest
+
+Playtest my game here [here](sanger.dk)
