@@ -4,4 +4,4 @@
 
 ## Playtest
 
-Playtest my game here [here](sanger.dk)
+Playtest my game here [here](https://puginarug.com/)
