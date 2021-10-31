@@ -31,7 +31,12 @@ Creative Commons BY 2.0
 "Netherlands-4946 - Our Lady - Star of the Sea"
 by archer10 (Dennis)
 Licensed under 
-CC BY-SA 2.0
+Creative Commons BY-SA 2.0
 
 ---
+"Inhabited Series | Open Door Policy" 
+by James Kerwin Photographic
+Licensed under
+Creative Commons BY 2.0
 
+---
