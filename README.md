@@ -1,6 +1,6 @@
 # IASC-1P04 |
 
-# Welcome to the example files website for my IASC 1P04 class
+# Welcome to the example files website for IASC 1P04
 
 
 ## Playtest
